@@ -1,0 +1,14 @@
+# Site's URL. Please include trailing "/".
+base_url = "https://printfdebugging.github.io/zola-thesis/"
+title = "zola-thesis"
+description = "Simple minimalist blog site for publishing interesting findings"
+
+compile_sass = true
+build_search_index = false
+generate_feeds = false
+minify_html = false
+
+[markdown]
+highlight_code = true
+highlight_theme = "Tomorrow"
+# highlight_theme = "base16-ocean-dark"
