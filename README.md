@@ -9,8 +9,6 @@ their blogs as research papers.
 
 ![thesis-theme](assets/zola-thesis-theme.png)
 
-![theme screenshot](screenshot.png)
-
 ## Quick Start
 
 Before using the theme, you need to install [Zola](https://www.getzola.org/documentation/getting-started/installation/) ≥ v0.18.0.
