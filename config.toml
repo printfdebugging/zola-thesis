@@ -5,7 +5,7 @@ description = "Simple minimalist blog site for publishing interesting findings"
 
 compile_sass = true
 build_search_index = false
-generate_feeds = false
+generate_feeds = true
 minify_html = false
 
 [markdown]
